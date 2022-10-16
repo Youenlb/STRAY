@@ -1,0 +1,26 @@
+Survol element menu : ligne blanche qui s'affiche petit à petit
+
+
+Faire des questionnaires différent en faire 2 de 10 questions 
+
+Faire un formulaire d'inscription et de connexion
+
+
+Page accueil présentant ce que l'on va retrouver sur le site
+Page questionnaire avec plusieurs bloc étant un questionnaire spécifique (un sur le chat,sur l'histoire global,sur les robots)
+Page score faire un système de classement par personne affichant les 10 meilleurs joueurs
+
+
+système de badge mis sur le profil de la personne si il répond correctement à tout les questions du questionnaire 
+Apres le questionnaire si il n'a pas répond correctement à tout et qu'il ne possede pas le badge mettre un timer indiquant le temps à attend avant de pouvoir refaire le questionnaire (mettre 1 heure)
+
+Faire un petit drapeau pour la langue qui ouvre une liste deroulante qui affiche France et English et qui change la langue du site selon le choix
+
+Système de recherche pour trouver une personne (au niveau du pseudo) Le pseudo est unique
+Pouvoir ajouter des amis 
+
+
+
+Pour le php : 
+Rôle administrateur pour pouvoir ajouter les questionnaires 
+Rôle utilisateur pour pouvoir effectuer les questionnaires

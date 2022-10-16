@@ -1,0 +1,8 @@
+git clone lien_repository --> cloner son repository sur son pc
+git add 'nom_fichier' --> ajouter dans le fichier temporaire le fichier
+git add . --> ajouter dans le fichier temporaire l'ensemble des éléments du fichier
+
+
+git commit -m "Premier code" --> ajouter dans le repository tout les fichiers ou dossier présent dans le fichier temporaire
+
+git push --> envoie sur le repository en ligne tout ce qui a été commit
