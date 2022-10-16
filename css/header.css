@@ -1,0 +1,16 @@
+header
+{
+    background-color: black; /*test*/
+    color: white;
+}
+
+.header-ul
+{
+    display: flex;
+    list-style: none;
+    font-weight: bold;
+}
+.header-ul li
+{
+    margin-left: 20px;
+}
